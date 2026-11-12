@@ -1,0 +1,127 @@
+﻿================================================================================
+                   FDT AGENT - LOCAL GIT COMMIT LOG HISTORY                     
+================================================================================
+ExportedAt: 2026-11-12 01:55:00 UTC
+
+--- CONTRIBUTORS SUMMARY ---
+6	Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+
+--- MACHINE READABLE COMMITS ---
+COMMIT_ROW|8039bd00d196a9981235e769fc52cf0c4d39d423|8039bd0|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|2026-11-12T08:52:04+07:00|Hoan thien giao dien chi tiet du an
+COMMIT_ROW|54f0a3b951ac9119aceb2e3e5bc13e615f61c40d|54f0a3b|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|2026-11-12T08:51:28+07:00|FDT Agent Autosave [08:51:28]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|ac2b5fac9fc9322fe4a0d309bc33ef25a82e3d80|ac2b5fa|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|2026-11-12T08:46:27+07:00|FDT Agent Autosave [08:46:27]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|4571e0253001a1fe454b24cdc28158f1363f13f1|4571e02|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|2026-11-12T08:41:26+07:00|FDT Agent Autosave [08:41:26]: Tự động sao lưu tiến độ làm bài định kỳ
+COMMIT_ROW|23783390fc16cc963450a9b458c1f1cc29729912|2378339|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|2026-11-12T08:35:09+07:00|Khoi tao du an
+COMMIT_ROW|2cdd082d735e43af873f2ed79d82c2cc7accff48|2cdd082|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|Phan Mạnh Tùng (2415053122347)|2415053122347@fdt.ute.udn.vn|2026-11-12T08:31:34+07:00|FDT Agent: Initialized local project repository
+
+--- DETAILED COMMIT HISTORY WITH FILE STATS ---
+commit 8039bd00d196a9981235e769fc52cf0c4d39d423
+Author:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+AuthorDate: Thu Nov 12 08:52:04 2026 +0700
+Commit:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+CommitDate: Thu Nov 12 08:52:04 2026 +0700
+
+    Hoan thien giao dien chi tiet du an
+
+ app/build.gradle.kts                               |  3 ++
+ .../example/lamquen_2415053122347/MainActivity.kt  | 10 +++++
+ app/src/main/res/layout/activity_main.xml          | 49 +++++++++++++++++-----
+ app/src/main/res/values/themes.xml                 |  2 +-
+ 4 files changed, 53 insertions(+), 11 deletions(-)
+
+commit 54f0a3b951ac9119aceb2e3e5bc13e615f61c40d
+Author:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+AuthorDate: Thu Nov 12 08:51:28 2026 +0700
+Commit:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+CommitDate: Thu Nov 12 08:51:28 2026 +0700
+
+    FDT Agent Autosave [08:51:28]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../java/com/example/lamquen_2415053122347/MainActivity.kt     | 10 +++++++++-
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+commit ac2b5fac9fc9322fe4a0d309bc33ef25a82e3d80
+Author:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+AuthorDate: Thu Nov 12 08:46:27 2026 +0700
+Commit:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+CommitDate: Thu Nov 12 08:46:27 2026 +0700
+
+    FDT Agent Autosave [08:46:27]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ app/build.gradle.kts                               |  3 ++
+ .../example/lamquen_2415053122347/MainActivity.kt  |  1 +
+ app/src/main/res/layout/activity_main.xml          | 38 +++++++++++++++++++++-
+ 3 files changed, 41 insertions(+), 1 deletion(-)
+
+commit 4571e0253001a1fe454b24cdc28158f1363f13f1
+Author:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+AuthorDate: Thu Nov 12 08:41:26 2026 +0700
+Commit:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+CommitDate: Thu Nov 12 08:41:26 2026 +0700
+
+    FDT Agent Autosave [08:41:26]: Tự động sao lưu tiến độ làm bài định kỳ
+
+ .../java/com/example/lamquen_2415053122347/MainActivity.kt  |  1 +
+ app/src/main/res/layout/activity_main.xml                   | 13 +++----------
+ app/src/main/res/values/themes.xml                          |  2 +-
+ 3 files changed, 5 insertions(+), 11 deletions(-)
+
+commit 23783390fc16cc963450a9b458c1f1cc29729912
+Author:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+AuthorDate: Thu Nov 12 08:35:09 2026 +0700
+Commit:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+CommitDate: Thu Nov 12 08:35:09 2026 +0700
+
+    Khoi tao du an
+
+ app/.gitignore                                     |   1 +
+ app/build.gradle.kts                               |  43 ++++
+ .../ExampleInstrumentedTest.kt                     |  24 ++
+ app/src/main/AndroidManifest.xml                   |  26 +++
+ .../example/lamquen_2415053122347/MainActivity.kt  |  20 ++
+ app/src/main/keepRules/rules.keep                  |  12 +
+ .../main/res/drawable/ic_launcher_background.xml   | 170 ++++++++++++++
+ .../main/res/drawable/ic_launcher_foreground.xml   |  30 +++
+ app/src/main/res/layout/activity_main.xml          |  19 ++
+ app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml |   6 +
+ .../res/mipmap-anydpi-v26/ic_launcher_round.xml    |   6 +
+ app/src/main/res/mipmap-hdpi/ic_launcher.webp      | Bin 0 -> 1404 bytes
+ .../main/res/mipmap-hdpi/ic_launcher_round.webp    | Bin 0 -> 2898 bytes
+ app/src/main/res/mipmap-mdpi/ic_launcher.webp      | Bin 0 -> 982 bytes
+ .../main/res/mipmap-mdpi/ic_launcher_round.webp    | Bin 0 -> 1772 bytes
+ app/src/main/res/mipmap-xhdpi/ic_launcher.webp     | Bin 0 -> 1900 bytes
+ .../main/res/mipmap-xhdpi/ic_launcher_round.webp   | Bin 0 -> 3918 bytes
+ app/src/main/res/mipmap-xxhdpi/ic_launcher.webp    | Bin 0 -> 2884 bytes
+ .../main/res/mipmap-xxhdpi/ic_launcher_round.webp  | Bin 0 -> 5914 bytes
+ app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp   | Bin 0 -> 3844 bytes
+ .../main/res/mipmap-xxxhdpi/ic_launcher_round.webp | Bin 0 -> 7778 bytes
+ app/src/main/res/values-night/themes.xml           |   7 +
+ app/src/main/res/values/colors.xml                 |   5 +
+ app/src/main/res/values/strings.xml                |   3 +
+ app/src/main/res/values/themes.xml                 |   9 +
+ app/src/main/res/xml/backup_rules.xml              |  13 ++
+ app/src/main/res/xml/data_extraction_rules.xml     |  19 ++
+ .../lamquen_2415053122347/ExampleUnitTest.kt       |  17 ++
+ build.gradle.kts                                   |   4 +
+ gradle.properties                                  |  19 ++
+ gradle/gradle-daemon-jvm.properties                |  12 +
+ gradle/libs.versions.toml                          |  24 ++
+ gradle/wrapper/gradle-wrapper.jar                  | Bin 0 -> 45457 bytes
+ gradle/wrapper/gradle-wrapper.properties           |   9 +
+ gradlew                                            | 251 +++++++++++++++++++++
+ gradlew.bat                                        |  94 ++++++++
+ local.properties                                   |  10 +
+ settings.gradle.kts                                |  26 +++
+ 38 files changed, 879 insertions(+)
+
+commit 2cdd082d735e43af873f2ed79d82c2cc7accff48
+Author:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+AuthorDate: Thu Nov 12 08:31:34 2026 +0700
+Commit:     Phan Mạnh Tùng (2415053122347) <2415053122347@fdt.ute.udn.vn>
+CommitDate: Thu Nov 12 08:31:34 2026 +0700
+
+    FDT Agent: Initialized local project repository
+
+ .gitignore | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+
